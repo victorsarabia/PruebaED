@@ -1,5 +1,7 @@
 prueba.css
+prueba.html
 
 #IDEs
 .idea/
-*.class
+
+.vscode/
