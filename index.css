@@ -7,3 +7,8 @@ body{
 h1 {
     background-color: aqua;
 }
+
+p {
+    font-size: 0.9em;
+    color:blue;
+}
